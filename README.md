@@ -87,8 +87,8 @@
 
 ### 🔥 **Project 1 — Awesome Web App**
 A powerful full-stack application built using **Next.js**, **Node.js**, and **MongoDB**.  
-🔗 *Demo:* https://your-demo-link.com  
-📦 *Repo:* https://github.com/your-username/project-1
+🔗 *Demo:* https://app.chati.ai  
+📦 *Repo:* https://github.com/devcrunchy/chati_mono_front_v1
 
 ---
 
