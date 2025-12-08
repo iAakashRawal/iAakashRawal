@@ -8,50 +8,88 @@
 ---
 
 ## 🚀 About Me  
-- 💻 I love building **scalable web apps**  
-- ⚡ I work with **Next.js, React, Node.js, MongoDB, TypeScript**
-- 🧠 Always learning **system design, clean architecture & performance optimization**
-- 🔥 Passionate about **UI/UX** and writing clean, maintainable code  
+- 💻 I love building **scalable and high-performance web apps**  
+- ⚡ Tech focus: **Next.js, React, Node.js, MongoDB, TypeScript**  
+- 🔥 Passionate about **architecture, clean code & UI/UX**  
+- 🧠 Currently exploring **system design, microservices & DevOps**  
 - 📬 Reach me at: **your.email@example.com**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack (Grid View)
 
-### **Frontend**
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js"/> 
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>
+      <strong>React</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br/>
+      <strong>Next.js</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br/>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br/>
+      <strong>TypeScript</strong>
+    </td>
+  </tr>
 
-### **Backend**
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express"/>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br/>
+      <strong>TailwindCSS</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"/><br/>
+      <strong>Redux</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br/>
+      <strong>Node.js</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br/>
+      <strong>Express</strong>
+    </td>
+  </tr>
 
-### **Database**
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
-
-### **Tools**
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman"/> 
-<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel"/>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br/>
+      <strong>MongoDB</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br/>
+      <strong>MySQL</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>
+      <strong>Git</strong>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/><br/>
+      <strong>Postman</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📂 Featured Projects  
 
 ### 🔥 **Project 1 — Awesome Web App**
-A powerful full-stack application built using **Next.js**, **Node.js**, and **MongoDB**.  
-👉 *Add short description of features here*  
-🔗 **Demo:** https://your-demo-link.com  
-📦 **Repo:** https://github.com/your-username/project-1
+A full-stack application built using **Next.js, Node.js & MongoDB**.  
+📦 **Repo:** https://github.com/your-username/project-1  
+🔗 *Add demo link*
 
 ---
 
 ### ⚡ **Project 2 — API Service / Dashboard**
-Modern dashboard with real-time updates using **React + TanStack Query + Express**.  
-👉 *Add description here*  
+Modern dashboard with real-time API data using **React + TanStack Query + Express**.  
 📦 **Repo:** https://github.com/your-username/project-2
 
 ---
