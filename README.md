@@ -83,27 +83,6 @@
 
 ---
 
-## 📂 Featured Projects  
-
-### 🔥 **Project 1 — Awesome Web App**
-A powerful full-stack application built using **Next.js**, **Node.js**, and **MongoDB**.  
-🔗 *Demo:* https://app.chati.ai  
-📦 *Repo:* https://github.com/devcrunchy/chati_mono_front_v1
-
----
-
-### ⚡ **Project 2 — API Service / Dashboard**
-Modern dashboard with real-time updates using **React + TanStack Query + Express**.  
-📦 *Repo:* https://github.com/your-username/project-2
-
----
-
-### ✨ **Project 3 — UI Component Library**
-Reusable components built using **Tailwind + ShadCN + Radix UI**.  
-📦 *Repo:* https://github.com/your-username/project-3
-
----
-
 # 📊 GitHub Stats  
 
 <p align="center">
