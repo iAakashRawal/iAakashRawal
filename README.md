@@ -12,7 +12,7 @@
 - ⚡ I work with **Next.js, React, Node.js, MongoDB, TypeScript**  
 - 🧠 Always learning **system design & clean architecture**  
 - 🎨 Passionate about modern UI/UX  
-- 📬 Reach me at: **your.email@example.com**
+- 📬 Reach me at: **rawalakash37@gmail.com.com**
 
 ---
 
