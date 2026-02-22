@@ -1,58 +1,58 @@
 <h1 align="center">Hi 👋, I'm Aakash Rawal</h1>
-<h3 align="center">Full-Stack Developer | System Builder | UI Architect</h3>
+<h3 align="center">Frontend Engineer | Next.js Specialist | UI System Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&duration=3000&pause=1000&color=3F7CEC&center=true&vCenter=true&width=500&lines=Full-Stack+System+Developer;Next.js+%7C+React+%7C+Node.js;WhatsApp+Marketing+Platform+Builder;AI+Integration+%7C+Workflow+Architect;Clean+Architecture+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&duration=3000&pause=1000&color=3F7CEC&center=true&vCenter=true&width=520&lines=Frontend+System+Engineer;Next.js+%7C+React+%7C+TypeScript;UI+Architecture+%7C+Component+Design;Performance+Focused+Developer" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 I build **Scalable SaaS & Automation Platforms**
-- 🚀 Creator of **WhatsApp Marketing & Campaign Systems**
-- 🤖 Working on **AI Calling & Smart Automation**
-- 🏗️ Focused on **Clean Architecture & Performance**
-- 🎨 Passionate about **Modern UI/UX Engineering**
+- 🎨 I design and build **Production-Grade UI Systems**
+- ⚡ Specialized in **Next.js + TypeScript Architecture**
+- 🧩 Expert in **Reusable Component Design**
+- 📊 Strong in **Complex Dashboard UI & Data Tables**
+- 🚀 Focused on **Performance Optimization & Clean Code**
 - 📬 Contact: **rawalakash37@gmail.com**
 
 ---
 
-# 🛠️ Tech Stack
-
-## 👨‍🎨 Frontend
+# 🛠️ Frontend Stack (Core Strength)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,mui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mui" />
+  <img src="https://img.shields.io/badge/ShadCN_UI-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚙️ Backend
+# 🧩 What I Build
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
----
-
-## 🧰 Tools & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,pnpm" />
-</p>
+✔️ Complex Admin Dashboards  
+✔️ WhatsApp-Style Chat Interfaces  
+✔️ Workflow Builder UIs  
+✔️ Dynamic Form Systems  
+✔️ Real-Time UI Systems  
+✔️ Mobile Responsive Interfaces  
 
 ---
 
-## 🧠 Advanced Areas
+# ⚙️ Additional Knowledge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System_Design-000?style=for-the-badge&logo=architecture&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Workflow_Engine-3F7CEC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Integration-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Real--Time_Chat-0ea5e9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SaaS_Architecture-9333ea?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git" />
 </p>
+
+- REST APIs  
+- Basic Backend Architecture  
+- Deployment on VPS  
 
 ---
 
@@ -74,11 +74,8 @@
   <a href="https://github.com/iAakashRawal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:rawalakash37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-<h3 align="center">🚀 Building Systems That Scale & Perform</h3>
+<h3 align="center">💎 Crafting Clean, Scalable & High-Performance Frontend Systems</h3>
