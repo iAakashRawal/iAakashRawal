@@ -9,66 +9,54 @@
 
 ## 🧠 About Me
 
-- 💻 I build **scalable SaaS systems & automation platforms**
-- 🚀 Creator of **WhatsApp Marketing Systems & Workflow Builders**
-- 🤖 Working on **AI Calling & Smart Automation Systems**
-- 🏗️ Focused on **Clean Architecture & Production-Grade UI**
-- ⚡ Strong in **Performance Optimization & Component Reusability**
-- 📬 Reach me at: **rawalakash37@gmail.com**
+- 💻 I build **Scalable SaaS & Automation Platforms**
+- 🚀 Creator of **WhatsApp Marketing & Campaign Systems**
+- 🤖 Working on **AI Calling & Smart Automation**
+- 🏗️ Focused on **Clean Architecture & Performance**
+- 🎨 Passionate about **Modern UI/UX Engineering**
+- 📬 Contact: **rawalakash37@gmail.com**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍🎨 Frontend Architecture
-- React.js
-- Next.js (App Router)
-- TypeScript
-- Tailwind CSS
-- MUI
-- ShadCN UI
-- TanStack Table
-- React Hook Form
-- Redux Toolkit
+## 👨‍🎨 Frontend
 
-### ⚙️ Backend & System Design
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Authentication Systems
-- Role-Based Access Control
-- Workflow Engine Design
-
-### 🤖 Advanced Projects Experience
-- WhatsApp Campaign Flow Builder
-- Real-time Chat Inbox System
-- AI Integration Systems
-- SMS Business Integration
-- Contest-Based Gaming Platform
-- Advanced Admin Dashboards
-
-### 🧰 Tools & DevOps
-- Git & GitHub
-- Postman
-- Docker (basic deployment)
-- pnpm
-- Cloud deployment (Hetzner / VPS)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,mui" />
+</p>
 
 ---
 
-# 🔥 Featured Skills
+## ⚙️ Backend
 
-✔️ System Thinking  
-✔️ Scalable Architecture  
-✔️ Real-Time Applications  
-✔️ API Design & Optimization  
-✔️ UI/UX Engineering  
-✔️ Performance Optimization  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🧰 Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,pnpm" />
+</p>
+
+---
+
+## 🧠 Advanced Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Design-000?style=for-the-badge&logo=architecture&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Workflow_Engine-3F7CEC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Integration-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real--Time_Chat-0ea5e9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SaaS_Architecture-9333ea?style=for-the-badge"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=iAakashRawal&show_icons=true&theme=radical" />
@@ -93,4 +81,4 @@
 
 ---
 
-<h3 align="center">💡 Building Systems That Scale 🚀</h3>
+<h3 align="center">🚀 Building Systems That Scale & Perform</h3>
