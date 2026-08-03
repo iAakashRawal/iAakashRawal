@@ -84,25 +84,10 @@ aakash@github ~ $ git log --graph --3d --all
 <!-- ===================== STATS ===================== -->
 ```console
 aakash@github ~ $ gh stats --username iAakashRawal
-```
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iAakashRawal&show_icons=true&hide_border=true&title_color=00ff9c&icon_color=00ff9c&text_color=8b949e&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iAakashRawal&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=8b949e&dates=8b949e" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAakashRawal&layout=compact&hide_border=true&title_color=00ff9c&text_color=8b949e&bg_color=0d1117&langs_count=8" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iAakashRawal&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
 
 <!-- ===================== ACTIVITY ===================== -->
 ```console
 aakash@github ~ $ htop --contributions
-```
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iAakashRawal&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
-</p>
 
 <!-- ===================== SNAKE ===================== -->
 <p align="center">
