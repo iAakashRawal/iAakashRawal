@@ -74,41 +74,6 @@ aakash@github ~ $ tree ./projects
 ```
 
 <!-- ===================== 3D CONTRIB ===================== -->
-```console
-aakash@github ~ $ git log --graph --3d --all
-```
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3d contributions" width="100%" />
-</p>
-
-<!-- ===================== STATS ===================== -->
-```console
-aakash@github ~ $ gh stats --username iAakashRawal
-
-<!-- ===================== ACTIVITY ===================== -->
-```console
-aakash@github ~ $ htop --contributions
-
-<!-- ===================== SNAKE ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iAakashRawal/iAakashRawal/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
-</p>
-
-<!-- ===================== CONNECT (ping) ===================== -->
-```console
-aakash@github ~ $ ping --connect
-```
-<p align="center">
-  <a href="https://www.linkedin.com/in/aakash-rawal-928369244" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/>
-  </a>
-  <a href="https://github.com/iAakashRawal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c"/>
-  </a>
-  <a href="mailto:rawalakash37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c"/>
-  </a>
-</p>
 
 <!-- ===================== EXIT ===================== -->
 ```console
