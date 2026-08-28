@@ -1,86 +1,198 @@
-<!-- ===================== TERMINAL HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=aakash@github:~$&fontColor=00ff9c&fontSize=34&fontAlignY=52&desc=frontend%20system%20engineer%20//%20next.js%20specialist&descAlignY=80&descSize=14&descColor=8b949e" />
+# Aakash Rawal
 
-<!-- ===================== BOOT / TYPING ===================== -->
+### Frontend Engineer · React · Next.js · TypeScript
+
+I’m a Frontend Engineer focused on building **scalable, high-performance web applications and production-grade UI systems**.
+
+I specialize in **React, Next.js, TypeScript, complex dashboards, reusable component architecture, data-heavy interfaces, and performance optimization**.
+
+I enjoy turning complex business requirements into clean, maintainable, and intuitive products.
+
+---
+
+## 👨‍💻 About Me
+
+* 🚀 Building production-grade applications with **React, Next.js & TypeScript**
+* 🧩 Strong focus on **reusable component architecture and design systems**
+* 📊 Experienced with **complex dashboards, data tables, filters, forms and admin systems**
+* ⚡ Focused on **performance, scalability and clean code**
+* 🔄 Experience working with **real-time and data-intensive interfaces**
+* 🐳 Comfortable working with **Node.js, MongoDB, Redis and Docker-based environments**
+* 🤝 Interested in building products that solve real-world business problems
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend
+
+**React · Next.js · TypeScript · JavaScript · HTML · CSS**
+
+### UI & Styling
+
+**Tailwind CSS · ShadCN UI · Material UI · Responsive Design · Design Systems**
+
+### State & Data
+
+**Redux · React Query / TanStack Query · TanStack Table · React Hook Form**
+
+### Backend & Database
+
+**Node.js · Express.js · MongoDB · Redis · REST APIs**
+
+### Engineering & Tools
+
+**Git · Docker · Linux · API Integration · Authentication · Rate Limiting · Idempotency**
+
+---
+
+## 🚀 What I Build
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                 PRODUCTION UI SYSTEMS                │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  📊 Enterprise Dashboards                           │
+│  ├── Data tables                                    │
+│  ├── Advanced filters                               │
+│  ├── Pagination & sorting                            │
+│  └── Analytics interfaces                           │
+│                                                     │
+│  🧩 Design Systems                                  │
+│  ├── Reusable components                            │
+│  ├── Consistent UI patterns                         │
+│  └── Scalable frontend architecture                │
+│                                                     │
+│  ⚡ High-Performance Applications                   │
+│  ├── Optimized rendering                            │
+│  ├── Efficient API integration                      │
+│  └── Large-data handling                            │
+│                                                     │
+│  🔄 Real-Time Systems                               │
+│  ├── Messaging interfaces                           │
+│  ├── Status tracking                                │
+│  └── Background processing UIs                      │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Enterprise Dashboard & Admin Systems
+
+Production-focused dashboard interfaces designed for managing complex business workflows.
+
+**Highlights**
+
+* Advanced data tables
+* Server-side pagination and filtering
+* Dynamic forms
+* Role-based interfaces
+* Reusable UI components
+* API-driven architecture
+* Performance optimization
+
+**Tech:** React · Next.js · TypeScript · TanStack Table · React Query · Tailwind CSS
+
+---
+
+### 💬 Messaging & Communication Platform
+
+A scalable communication interface designed around large datasets, asynchronous processing and real-time status updates.
+
+**Highlights**
+
+* Campaign management
+* Message tracking
+* Reporting dashboards
+* Archive management
+* Large-data handling
+* API integrations
+* Background processing workflows
+
+**Tech:** React · Next.js · TypeScript · Node.js · MongoDB · Redis
+
+---
+
+### 🏫 School Management System
+
+A comprehensive management platform covering student, teacher, academic and administrative workflows.
+
+**Highlights**
+
+* Student management
+* Dynamic forms
+* Role-based dashboards
+* Attendance workflows
+* Data tables
+* Responsive admin interface
+* Modular frontend architecture
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · Node.js · MongoDB
+
+---
+
+### 🔧 Workflow & Flowchart Builder
+
+A visual workflow-building interface that allows users to create and manage complex workflows without manually writing diagram syntax.
+
+**Highlights**
+
+* Visual workflow creation
+* Interactive nodes and connections
+* Reusable components
+* Diagram generation
+* User-friendly editing experience
+
+**Tech:** React · Next.js · TypeScript · Mermaid · Tailwind CSS
+
+---
+
+## 🧠 Engineering Principles
+
+```text
+Clean Architecture
+       ↓
+Reusable Components
+       ↓
+Predictable State Management
+       ↓
+Efficient API Integration
+       ↓
+Performance Optimization
+       ↓
+Maintainable Production Code
+```
+
+I believe good frontend engineering is not only about making interfaces look good — it is about creating systems that remain **fast, scalable and maintainable as the product grows**.
+
+---
+
+## 📈 Currently Focused On
+
+* Advanced **Next.js architecture**
+* Frontend performance optimization
+* Scalable design systems
+* Real-time applications
+* Large-scale data handling
+* Distributed systems fundamentals
+* Production-grade authentication and API architecture
+
+---
+
+## 📫 Let's Connect
+
+**Email:** [rawalakash37@gmail.com](mailto:rawalakash37@gmail.com)
+
+**GitHub:** [@iAakashRawal](https://github.com/iAakashRawal)
+
+I'm open to opportunities involving **Frontend Engineering, React, Next.js, TypeScript and full-stack product development**.
+
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=620&lines=%24+whoami+--%3E+aakash+rawal;%24+role+--%3E+frontend+system+engineer;%24+stack+--%3E+next.js+%7C+react+%7C+typescript;%24+mission+--%3E+clean%2C+scalable%2C+fast+UI" />
-</p>
-
-<br/>
-
-<!-- ===================== NEOFETCH CARD ===================== -->
-```console
-aakash@github ~ $ neofetch
-                                     ┌──────────────────────────────────────────────┐
-         __ _  __ _ _ __             │  aakash@github                               │
-       / _` |/ _` | '_ \            │  ────────────────────────────────────────    │
-      | (_| | (_| | | | |           │  OS.......... Frontend Engineer (prod-grade) │
-       \__,_|\__,_|_| |_|           │  Host........ Next.js + TypeScript Arch      │
-                                     │  Kernel...... React 19 / App Router          │
-      ╔══════════════════╗          │  Uptime...... building UI systems, 24/7      │
-      ║  > building UI   ║          │  Shell....... zsh + vim motions              │
-      ║  > pixel perfect ║          │  DE.......... TailwindCSS + ShadCN UI         │
-      ║  > 60fps always  ║          │  WM.......... reusable component design       │
-      ╚══════════════════╝          │  Terminal.... performance-obsessed           │
-                                     │  Email....... rawalakash37@gmail.com          │
-                                     └──────────────────────────────────────────────┘
-```
-
-<!-- ===================== ABOUT (ls) ===================== -->
-```console
-aakash@github ~ $ cat about.md
-
-  # 🎨  I design & build Production-Grade UI Systems
-  # ⚡  Specialized in Next.js + TypeScript Architecture
-  # 🧩  Expert in Reusable Component Design
-  # 📊  Strong in Complex Dashboard UI & Data Tables
-  # 🚀  Obsessed with Performance & Clean Code
-```
-
-<!-- ===================== STACK (which) ===================== -->
-```console
-aakash@github ~ $ which --stack --core
-```
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux&perline=6" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mui" />
-  <img src="https://img.shields.io/badge/ShadCN_UI-0d1117?style=for-the-badge&logo=shadcnui&logoColor=00ff9c"/>
-  <img src="https://img.shields.io/badge/TanStack_Table-0d1117?style=for-the-badge&logo=reactquery&logoColor=ff4154"/>
-  <img src="https://img.shields.io/badge/React_Hook_Form-0d1117?style=for-the-badge&logo=reacthookform&logoColor=ec5990"/>
-</p>
-
-```console
-aakash@github ~ $ which --stack --extras
-```
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,docker,linux&perline=6" />
-</p>
-
-<!-- ===================== WHAT I BUILD (tree) ===================== -->
-```console
-aakash@github ~ $ tree ./projects
-
-./projects
-├── 📊 complex-admin-dashboards
-├── 💬 whatsapp-style-chat-interfaces
-├── 🔧 workflow-builder-uis
-├── 📝 dynamic-form-systems
-├── ⚡ real-time-ui-systems
-└── 📱 mobile-responsive-interfaces
-
-6 directories, all production-grade.
-```
-
-<!-- ===================== 3D CONTRIB ===================== -->
-
-<!-- ===================== EXIT ===================== -->
-```console
-aakash@github ~ $ exit
-Connection to github closed.  //  crafting clean, scalable & high-performance UI ✨
-```
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iAakashRawal&label=visitors&color=00ff9c&style=flat-square" alt="views" />
+  <b>Building scalable products, one component at a time.</b>
 </p>
