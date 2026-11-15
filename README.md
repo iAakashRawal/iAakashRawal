@@ -5,19 +5,19 @@
 **Designing interfaces. Engineering systems. Building for scale.**
 
 ```text
-╭──────────────────────────────────────────────────────────────────╮
+╭────────────────────────────────────────────────────────╮
 │                                                                  │
 │   AAKASH RAWAL                                                   │
-│   ────────────────────────────────────────────────────────────    │
+│   ─────────────────────────────────────────────────────│
 │                                                                  │
 │   FRONTEND SYSTEM ENGINEER                                       │
 │                                                                  │
 │   React / Next.js / TypeScript                                   │
 │                                                                  │
-│   Building scalable digital products with                      │
-│   performance, architecture and precision at the core.          │
+│   Building scalable digital products with                        │
+│   performance, architecture and precision at the core.           │
 │                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
+╰────────────────────────────────────────────────────────╯
 ```
 
 [ GitHub ] · [ LinkedIn ] · [ Email ]
